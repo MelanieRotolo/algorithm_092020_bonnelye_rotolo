@@ -202,7 +202,7 @@ class FibonacciHeap():
                 self.print_tree(child)
 
 
-#---------
+# Test de l'algorithme
 
 print("Création de l'arbre...\n")
 f = FibonacciHeap()
