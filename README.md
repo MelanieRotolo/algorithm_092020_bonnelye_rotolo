@@ -1,4 +1,4 @@
-# algorithm_092020_nom1_nom2
+# algorithm_092020_bonnelye_rotolo
 
 Modèle du projet du cours d'algorithmes
 
